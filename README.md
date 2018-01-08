@@ -4,20 +4,20 @@ Repository of the different Computer Graphics projects that I'm working on in my
 The shaders below are implemented in the Unity3D game engine with the Cg shading language. I have tried working with OpenGL, but I do not have anything to showcase. Some of the shaders are based on what I was taught in the *Computer Graphics Programing* course at AAUtaught by Associate Professor Martin Kraus, which are also partly doccumented at https://en.wikibooks.org/wiki/Cg_Programming/Unity, and the image effect shaders are inspired by *Unity 5.x Shaders and Effects Cookbook*, which I used as a reference guide.
 
 **Table of Contents**
-- [Shaders](#)
-	- [Lambertian](#)
-	- [Oren-Nayar](#)
-	- [Phong, Blinn-Phong, Gouraud](#)
-	- [Fresnel Highlights](#)
-	- [Cook-Torrance](#)
-	- [Ward anisotropic](#)
-	- [Silhouette Enhancement](#)
-	- [Normal and Parallax mapping](#)
-	- [Toon shader](#)
-	- [Dissolve shader](#)
-- [Image Effects](#)
-	- [Night Vision Screen Effect](#)
-- [Raytracing](#)
+- [Shaders](#shaders)
+	- [Lambertian](#lambertian)
+	- [Oren-Nayar](#oren-nayar)
+	- [Phong, Blinn-Phong, Gouraud](#phong-blinn-phong-gouraud)
+	- [Fresnel Highlights](#fresnel-highlights)
+	- [Cook-Torrance](#cook-torrance)
+	- [Ward anisotropic](#ward-anisotropic)
+	- [Silhouette Enhancement](#silhouette-enhancement)
+	- [Normal and Parallax mapping](#normal-and-parallax-mapping)
+	- [Toon shader](#toon-shader)
+	- [Dissolve shader](#dissolve-shader)
+- [Image Effects](#image-effects)
+	- [Night Vision Screen Effect](#night-vision-screen-effect)
+- [Raytracing](#raytracing)
 
 Shaders
 -------
